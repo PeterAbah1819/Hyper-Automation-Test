@@ -21,8 +21,6 @@ Mobile.startApplication('C:\\Users\\peter\\Desktop\\Mine\\Coding\\Tester\\APKs\\
 
 Mobile.tap(findTestObject('Object Repository/SignUp/android.widget.ImageButton'), 0)
 
-Mobile.pressBack()
-
 Mobile.tap(findTestObject('Object Repository/SignUp/android.widget.ImageView'), 0)
 
 Mobile.tap(findTestObject('Object Repository/SignUp/android.widget.Button - LOG INREGISTER'), 0)
@@ -30,8 +28,6 @@ Mobile.tap(findTestObject('Object Repository/SignUp/android.widget.Button - LOG 
 Mobile.tap(findTestObject('Object Repository/SignUp/android.widget.CheckBox'), 0)
 
 Mobile.tap(findTestObject('Object Repository/SignUp/android.widget.Button - CONNECT WITH EMAIL'), 0)
-
-Mobile.tap(findTestObject('Object Repository/SignUp/android.widget.Button - CONNECT WITH EMAIL (1)'), 0)
 
 Mobile.setText(findTestObject('Object Repository/SignUp/android.widget.EditText - Your email here'), 'peterabah@gmail.com', 
     0)
