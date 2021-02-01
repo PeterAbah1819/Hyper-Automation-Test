@@ -38,3 +38,5 @@ Mobile.tap(findTestObject('Object Repository/SignUp/android.widget.Button - SEND
 
 Mobile.closeApplication()
 
+WebUI.comment('Done Beeshees')
+
